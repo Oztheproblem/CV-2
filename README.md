@@ -4,10 +4,13 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                           | Description                            | Tech/tools        |
+| ------------------------------ | -------------------------------------- | ----------------- |
+| **[Rock, Paper, Scissors](https://github.com/Oztheproblem/Sleep-Debt-Calculator.git)**   | Classic game to have fun vs Commputer  | Python            |
+| **[Sleep Debt Calculator]**    | A webapp to do y.                      | Javascript        |
+| **[Command Line Murder]**      | A Mystery you have to solve using CL   | Ruby              |
+| **[Students Directory]**       | A simple register for villains using CL| Ruby              |
+
 
 ## Work Experience
 
